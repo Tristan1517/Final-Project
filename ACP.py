@@ -1,4 +1,3 @@
-# expense_tracker_final.py
 import mysql.connector
 from mysql.connector import Error
 from tkinter import *
